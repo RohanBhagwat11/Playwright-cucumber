@@ -4,7 +4,7 @@ BDD Automation with Playwright & TypeScript
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 - Playwright
 - Cucumber
@@ -14,7 +14,7 @@ BDD Automation with Playwright & TypeScript
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 Playwright-cucumber/
@@ -52,7 +52,7 @@ Playwright-cucumber/
 
 
 
-## ⚙️ Prerequisites
+##  Prerequisites
 
 Install the following before running the project:
 
@@ -68,7 +68,7 @@ npm -v
 
 ---
 
-## 📥 Installation
+##  Installation
 
 Install dependencies:
 
@@ -84,7 +84,7 @@ npx playwright install
 
 ---
 
-## ▶️ Running Tests
+##  Running Tests
 
 Run all tests:
 
@@ -100,7 +100,7 @@ npx cucumber-js
 
 ---
 
-## 📝 Sample Feature
+##  Sample Feature
 
 ```gherkin
 Feature: Login Functionality
@@ -115,7 +115,7 @@ Feature: Login Functionality
 
 ---
 
-## 🏗️ Page Object Model Example
+##  Page Object Model Example
 
 ```typescript
 export class LoginPage {
@@ -131,7 +131,7 @@ export class LoginPage {
 
 ---
 
-## 📊 Test Reports
+##  Test Reports
 
 Generate reports after execution:
 
@@ -148,7 +148,7 @@ reports/
 ---
 
 
-## 🎯 Test Scenarios Covered
+##  Test Scenarios Covered
 
 ### Login Module
 
@@ -165,7 +165,7 @@ reports/
 
 ---
 
-## 🛠 Useful Commands
+##  Useful Commands
 
 Install dependencies:
 
